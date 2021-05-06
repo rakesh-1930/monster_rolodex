@@ -1,0 +1,10 @@
+.search {
+  outline: none;
+  border: 1px solid greenyellow;
+  padding: 10px;
+  width: 140px;
+  margin: 20px 0;
+}
+.search::placeholder {
+  color: rgb(175, 174, 174);
+}
